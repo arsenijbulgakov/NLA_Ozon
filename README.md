@@ -1,3 +1,3 @@
 # NLA_Ozon
 
-Repository for SVD Softmax project
+Repository for NLA course
